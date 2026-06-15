@@ -1,6 +1,7 @@
 ---
 title: "ブログを作ってみた"
 topics:　["introduction"]
+published: 2026-06-15
 ---
 
 ## Hello World
